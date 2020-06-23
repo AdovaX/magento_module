@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Icosmoz. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+        <add id="Icosmoz_Unicenta::icosmoz_homeindex" title="ICS" module="Icosmoz_Unicenta"  sortOrder="20" dependsOnModule="Icosmoz_Unicenta" action="unicenta/home/index" resource="Icosmoz_Unicenta::icosmoz_homeindex"/>
+<!--AddMenu-->
+    </menu>
+</config>
